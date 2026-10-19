@@ -1,0 +1,2 @@
+# SDC_HACKATHON_SUBMISSION_TEMPLATE_GROUP_SDC4
+The submition template of group SDC4
