@@ -122,8 +122,8 @@ User Browser (Local Storage) ──► Replit (Next.js App / API Proxy) ──�
 | Name        | Role                | GitHub                                   |
 | ----------- | ------------------- | ---------------------------------------- |
 | Yue XIONGHE | Team Lead / Full-Stack | [@ERYCYUE](https://github.com/ERYCYUE) |
-| GONG SHENGYUE | AI & Data Pipeline  | [@username](https://github.com/username) |
-| YING ZICHEN | Frontend & UI       | [@username](https://github.com/username) |
+| GONG SHENGYUE | AI & Data Pipeline  | [@kung668](https://github.com/kung668) |
+| YING ZICHEN | Frontend & UI       | [@2471946656-crypto](https://github.com/2471946656-crypto) |
 | CHEN HAOYU | Testing & Doc       | [@username](https://github.com/username) |
 
 ---
