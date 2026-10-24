@@ -119,7 +119,7 @@ npm run dev
 - **Hosting:** The full-stack Next.js application is deployed directly on Replit Cloud Platform (`https://nextep-ericyywies.replit.app`).
 - **Secrets Management:** Securely storing API keys (e.g., DeepSeek API keys) using Replit Secrets.
 
-📄 Proof of use: [`submission/REPLIT PROOF OF USE.pdf`](submission/REPLIT%20PROOF%20OF%20USE.pdf)
+📄 Proof of use: [`Submission/REPLIT PROOF OF USE.pdf`](Submission/REPLIT%20PROOF%20OF%20USE.pdf)
 
 ---
 
