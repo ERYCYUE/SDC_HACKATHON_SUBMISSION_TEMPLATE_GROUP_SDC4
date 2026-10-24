@@ -87,29 +87,12 @@ User Browser (Local Storage) ──► Replit (Next.js App / API Proxy) ──�
 
 ## How to Run
 
-### Option 1 — Run on Replit (Recommended)
+### Run on Replit (Recommended)
 
 1. Open the [Replit Project](https://nextep-ericyywies.replit.app), or import this repository via **Create Repl → Import from GitHub**.
 2. Open the **Secrets** tab (🔒) and add your environment variables:
    - `DEEPSEEK_API_KEY`
 3. Click **Run**. Replit will install dependencies and start the Next.js development/production server.
-
-### Option 2 — Run Locally
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/ERYCYUE/SDC_HACKATHON_SUBMISSION_TEMPLATE_GROUP_SDC4.git
-cd SDC_HACKATHON_SUBMISSION_TEMPLATE_GROUP_SDC4
-
-# 2. Install dependencies
-npm install
-
-# 3. Configure environment variables
-cp .env.example .env.local     # then add your DEEPSEEK_API_KEY
-
-# 4. Run the development server
-npm run dev
-```
 
 ---
 
