@@ -21,7 +21,7 @@
 | ----------------- | ---------------------------------------------- |
 | GitHub Repository | https://github.com/ERYCYUE/SDC_HACKATHON_SUBMISSION_TEMPLATE_GROUP_SDC4 |
 | Replit Project    | https://nextep-ericyywies.replit.app           |
-| Live Demo         | https://eee-career-atlas-20261020.noblevenus32.chatgpt.site           |
+| Live Demo         | https://nextep-ericyywies.replit.app    |
 | Slide Deck        | https://docs.google.com/presentation/d/1SvRvFLILOR-uoKKNbsVYxNxe0nVKZh4c/edit?usp=drive_link&ouid=101313800651987045018&rtpof=true&sd=true                     |
 | Demo Video        | https://youtu.be/HySeHsjcdzk|
 
