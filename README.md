@@ -23,7 +23,7 @@
 | Replit Project    | https://nextep-ericyywies.replit.app           |
 | Live Demo         | https://eee-career-atlas-20261020.noblevenus32.chatgpt.site           |
 | Slide Deck        | https://docs.google.com/presentation/d/1SvRvFLILOR-uoKKNbsVYxNxe0nVKZh4c/edit?usp=drive_link&ouid=101313800651987045018&rtpof=true&sd=true                     |
-| Demo Video        | (https://youtu.be/HySeHsjcdzk)|
+| Demo Video        | https://youtu.be/HySeHsjcdzk|
 
 ---
 
