@@ -85,14 +85,15 @@ User Browser (Local Storage) ──► Replit (Next.js App / API Proxy) ──�
 
 ---
 
-## How to Run
+## How to Run & Use
 
-### Run on Replit (Recommended)
+### 🚀 Option 1 — Access Online Directly (Recommended)
+1. Simply click the **[Live Demo Link](https://nextep-ericyywies.replit.app)** to access the fully deployed web application directly in your browser. No extra setup or API key is required.
 
-1. Open the [Replit Project](https://nextep-ericyywies.replit.app), or import this repository via **Create Repl → Import from GitHub**.
-2. Open the **Secrets** tab (🔒) and add your environment variables:
-   - `DEEPSEEK_API_KEY`
-3. Click **Run**. Replit will install dependencies and start the Next.js development/production server.
+### 📦 Option 2 — Deploy via Replit & Source Files
+1. Open **[Replit](https://replit.com/)** and create a new Repl by importing this GitHub repository. 
+2. Alternatively, you can find the **`FINAL VERSION`** `.zip` archive located directly inside the **`Submission`** or **`src`** folder of this repository, download it, and upload it to Replit.
+3. Click **Run**. Replit will automatically install dependencies and start the Next.js server with zero manual configuration.roduction server.
 
 ---
 
